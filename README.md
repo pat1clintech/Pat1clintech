@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+## This is Patricia Ogolodom-Clinton
+### I am a Business Intelligence Analyst/ Data Analyst
 
-<!--
-**pat1clintech/Pat1clintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently working on some projects
+### I'm interested in Data and Business Analysis
+### I’m currently learning solving problems with Tools on Data Analysis
+### I’m looking to collaborate with companies and individuals on how to solve their business problems involving data
+### You can reach me on:[Linkedin] (www.linkedin.com/in/pat-o-b76a55aa)
+### 😄 Pronouns: She
+#### ⚡ Fun fact: Reading
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
